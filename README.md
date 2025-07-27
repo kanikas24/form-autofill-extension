@@ -17,8 +17,8 @@ src/
 ⚙️ Setup Instructions
 
 1. Clone Repository:
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone (https://github.com/kanikas24/form-autofill-extension.git)
+   cd form-autofill-extension/
 
 2. Install Plasmo (if not installed)
    npm i -g plasmo
